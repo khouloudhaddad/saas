@@ -68,3 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Development Steps
 
 - Install [tailwindcss](https://tailwindcss.com/docs/guides/laravel)
+- Install Vue3 
+    - `yarn add vue vue-loader`
+    - `composer require laravel/ui` && `php artisan ui vue`
