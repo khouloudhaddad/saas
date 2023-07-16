@@ -13,7 +13,7 @@
         <!-- Styles -->
         @vite('resources/css/app.css')
     </head>
-    <body class="antialiased">
+    <body class="antialiased" id="app">
         <h1 class="text-3xl font-bold">
             Hello world!
         </h1>
