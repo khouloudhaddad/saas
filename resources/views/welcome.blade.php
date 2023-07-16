@@ -14,8 +14,10 @@
         @vite('resources/css/app.css')
     </head>
     <body class="antialiased">
-        <h1 class="text-3xl font-bold underline">
+        <h1 class="text-3xl font-bold">
             Hello world!
         </h1>
+
+        @vite('resources/js/app.js')
     </body>
 </html>
