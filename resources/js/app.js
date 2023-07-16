@@ -5,6 +5,3 @@
  */
 
 import './bootstrap';
-
-import '../../frontend';
-
