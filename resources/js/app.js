@@ -6,3 +6,5 @@
 
 import './bootstrap';
 
+import '../../frontend';
+
